@@ -1,0 +1,34 @@
+[
+  {
+    "coverUrl": "https://picsum.photos/seed/book3/200/280",
+    "title": "Design Patterns",
+    "author": "Erich Gamma",
+    "price": "3500.00",
+    "rating": "4.9",
+    "added_to_cart": "true"
+  },
+  {
+    "coverUrl": "https://picsum.photos/seed/book5/200/280",
+    "title": "Java Concurrency in Practice",
+    "author": "Brian Goetz",
+    "price": "3000.00",
+    "rating": "4.5",
+    "added_to_cart": "true"
+  },
+  {
+    "coverUrl": "https://picsum.photos/seed/book6/200/280",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "price": "2800.00",
+    "rating": "4.8",
+    "added_to_cart": "true"
+  },
+  {
+    "coverUrl": "https://picsum.photos/seed/book7/200/280",
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "price": "3200.00",
+    "rating": "4.6",
+    "added_to_cart": "true"
+  }
+]
