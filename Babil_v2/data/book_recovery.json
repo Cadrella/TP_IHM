@@ -1,0 +1,93 @@
+[
+  {
+    "coverUrl": "https://covers.openlibrary.org/b/id/10590366-L.jpg",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": "129.90",
+    "rating": "4.3",
+    "type": "Classic",
+    "added_to_cart": "true",
+    "pages": "180",
+    "publisher": "Scribner",
+    "summary": "A portrait of the Jazz Age in all of its decadence and excess.",
+    "language": "English"
+  },
+  {
+    "coverUrl": "https://covers.openlibrary.org/b/id/12606502-L.jpg",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": "105.00",
+    "rating": "4.8",
+    "type": "Classic",
+    "added_to_cart": "true",
+    "pages": "281",
+    "publisher": "J.B. Lippincott & Co.",
+    "summary": "A young girl's experience of racial injustice in the American South.",
+    "language": "English"
+  },
+  {
+    "coverUrl": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+    "title": "1984",
+    "author": "George Orwell",
+    "price": "90.99",
+    "rating": "4.7",
+    "type": "Dystopian",
+    "added_to_cart": "false",
+    "pages": "328",
+    "publisher": "Secker & Warburg",
+    "summary": "A chilling prophecy about the future and the perils of totalitarianism.",
+    "language": "English"
+  },
+  {
+    "coverUrl": "https://covers.openlibrary.org/b/id/8231991-L.jpg",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "price": "110.00",
+    "rating": "4.6",
+    "type": "Romance",
+    "added_to_cart": "false",
+    "pages": "279",
+    "publisher": "T. Egerton",
+    "summary": "A classic novel of manners that explores the nature of love and social standing.",
+    "language": "English"
+  },
+  {
+    "coverUrl": "https://covers.openlibrary.org/b/id/8231856-L.jpg",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "price": "140.50",
+    "rating": "4.8",
+    "type": "Fantasy",
+    "added_to_cart": "false",
+    "pages": "310",
+    "publisher": "George Allen & Unwin",
+    "summary": "Bilbo Baggins embarks on an unexpected journey with a band of dwarves.",
+    "language": "English"
+  },
+  {
+    "coverUrl": "https://covers.openlibrary.org/b/id/9251991-L.jpg",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "price": "160.00",
+    "rating": "4.5",
+    "type": "Psychology",
+    "added_to_cart": "false",
+    "pages": "499",
+    "publisher": "Farrar, Straus and Giroux",
+    "summary": "An exploration of the two systems that drive the way we think.",
+    "language": "English"
+  },
+  {
+    "coverUrl": "https://covers.openlibrary.org/b/id/10909298-L.jpg",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "price": "250.00",
+    "rating": "4.4",
+    "type": "Technology",
+    "added_to_cart": "false",
+    "pages": "1312",
+    "publisher": "MIT Press",
+    "summary": "Comprehensive textbook on algorithms and data structures for students and professionals.",
+    "language": "English"
+  }
+]
